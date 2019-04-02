@@ -8,5 +8,7 @@
 # 굳이 printf("> ");를 달아야 한다고?
 이게 좀 빡가긴 한다. Xcode에서 printf (출력) 없이 바로 scanf (입략)을 받으면 내가 어떤 숫자를 눌렀는지를 보여주질 않는다. 그러나 놀랍게도 입력이 되고 저장이 된다. 근데 보이질 않아서 뭐를 한다는 소리인가... <br/>
 그래서 이를 해결하기 위한 방법은 어쩔수 없는 printf (출력) 이 필요 하다는 것이다. ~~리눅스, 윈도우도 생각해보면 좋은거 같음 ㅇㅇ~~ <br/>
-April 3th Wed 1001 ~ 1049 Updated
+<pre>
+April 3th Wed 1001 ~ 1049 Updated <br/>
 Problem README.md 1001 ~ 1010 Updated
+</pre>

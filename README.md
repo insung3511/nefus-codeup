@@ -13,3 +13,7 @@
 April 3th Wed 1001 ~ 1403 Updated <br/>
 Problem README.md 1001 ~ 1035 Updated  <br/>
 중간중간 없는 문제들이 많습니다. 이점 참고 해주시기 바랍니다. <br/>
+
+# 아하니 printf("> "); 가 없는건 또 뭔데 ?
+Visual Studio 로 짠 것들은 없다. 이유는 필요 없기 떄문이다. <br/>
+학교에서는 VS로 한다.

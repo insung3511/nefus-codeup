@@ -1,0 +1,26 @@
+#include <stdio.h>
+
+int main() {
+	int num[9][9] = { '\n' };
+	int qwer = 0;
+	int asdf = 0;
+	int all = 0;
+
+	for (int i = 0; i < 9; i++) {
+		for (int j = 0; j < 9; j++) {
+			scanf("%d", &num[i][j]);
+		}
+	}
+	scanf("%d %d", &qwer, &asdf);
+	
+	for (int i = qwer - 1; i <= qwer + 1; i++) {
+		for (int j = asdf - 1; j <= asdf + 1; j++) {
+			all += num[i][j];
+		}
+	}
+	printf("%d\n", all);
+
+	return 0;
+
+
+}
